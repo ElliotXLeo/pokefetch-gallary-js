@@ -1,26 +1,48 @@
-# [Pokedex Fetch PokéApi JS I](https://elliotxleo.github.io/pokedex-fetch-pokeapi-js-i) | [<img src="https://www.kindpng.com/picc/m/141-1419051_github-icon-png-transparent-png.png" width="87.4" height="25" />](https://github.com/ElliotXLeo) | [<img src="https://www.mndesign.es/wp-content/uploads/2014/04/linkedin-1200x400.jpg" width="75" height="25" />](https://www.linkedin.com/in/elliotgaramendi) |  [<img src="https://www.audienciaelectronica.net/wp-content/uploads/2018/08/facebook-text-logo.png" width="86.24" height="25" />](https://web.facebook.com/elliotgaramendi) 
+# [PokeFetch Gallary](https://elliotxleo.github.io/pokefetch-gallary-js/) | [<img src="https://i.postimg.cc/J7BLFtdc/linkedin.png" alt="LinkedIn" class="footer-nav__link-image" height="20px" />](https://www.linkedin.com/in/elliotgaramendi/)  | [<img src="https://i.postimg.cc/sfJtqS4W/instagram.png" alt="Instagram" class="footer-nav__link-image" height="20px" />](https://www.instagram.com/elliotgaramendi/)  | [<img src="https://i.postimg.cc/7YHyZXZX/facebook.png" alt="Facebook" class="footer-nav__link-image" height="20px" />](https://www.facebook.com/elliotgaramendi)  | [<img src="https://i.postimg.cc/5NBMxTJX/github.png" alt="GitHub" class="footer-nav__link-image" height="20px" />](https://github.com/ElliotXLeo)  | [<img src="https://i.postimg.cc/dtPYcvbM/youtube.png" alt="YouTube" class="footer-nav__link-image" height="20px" />](https://www.youtube.com/channel/UCE9whBrtYnLWrpzwk6z_JUA)  | [<img src="https://i.postimg.cc/65TVxg9t/world-globe.png" alt="Página Personal" class="footer-nav__link-image" height="20px" />](https://elliotxleo.github.io/portafolio-web-elgs/)
 
-[![pokedex-fetch-pokeapi-js-i](./img/demo.png)](https://elliotxleo.github.io/pokedex-fetch-pokeapi-js-i)
+[![PokeFetch Gallary](https://elliotxleo.github.io/pokefetch-gallary-js/img/demo.png)](https://elliotxleo.github.io/pokefetch-gallary-js/)
 
-Aplicación de listado de Pokémons con paginación. La aplicación consume la PokéApi, Bootstrap y fuentes de Google Fonts.
+Aplicación de listado de Pokémons con paginación. La data la consume del API PokéApi.
 
-
-## Instalación
+## 💻 Instalación 💻
 - Ubicarse en la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
-  - git clone https://github.com/ElliotXLeo/pokedex-fetch-pokeapi-js-i
-  - cd pokedex-fetch-pokeapi-js-i o ir desde el explorador de archivos
-  - Abrir el archivo index.html o levantar un servidor con herramientas como Visual Studio Code + Live Server
+  - git clone https://github.com/ElliotXLeo/pokefetch-gallary-js.git
+  - cd pokefetch-gallary-js
+  - Levantar la web en un servidor y disfrutar
 
-## Tecnologías usadas
-| HTML | CSS | JavaScript | Bootsrap |
-| --- | --- | --- | --- |
-| <img src="https://javier-rodriguez.vercel.app/img/logos/html-5.svg" width="1000px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" width="1000px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="1000px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="1000px"/> |
+## 👨‍💻 Tecnologías Usadas 👨‍💻
+<table>
+    <thead>
+      <tr>
+        <th>HTML</th>
+        <th>CSS</th>
+        <th>JavaScript</th>
+        <th>Bootstrap</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://i.postimg.cc/rF6WrLjr/html.png" width="100%" />
+        </td>
+        <td>
+          <img src="https://i.postimg.cc/mgSDG9F2/css.png" width="100%" />
+        </td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="100%" />
+        </td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="100%" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-## Redes sociales
-
-- GitHub: https://github.com/ElliotXLeo
-
-- LinkedIn: www.linkedin.com/in/elliotgaramendi
-
-- Facebook: https://web.facebook.com/elliotgaramendi
+## 🤗 Redes Sociales 🤗
+- 🐭 LinkedIn: https://www.linkedin.com/in/elliotgaramendi/ 🐭
+- 🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭
+- 🐭 Facebook: https://www.facebook.com/elliotgaramendi/ 🐭
+- 🐭 GitHub: https://github.com/ElliotXLeo/ 🐭
+- 🐭 YouTube: https://www.youtube.com/channel/UCE9whBrtYnLWrpzwk6z_JUA/ 🐭
+- 🐭 Web Personal: https://elliotxleo.github.io/portafolio-web-elgs/ 🐭
